@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Project\\DD\\lab_5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5D760E39-B133-FD8A-7F19-4D6A822F6EBF}|UnitTest_5_1\\UnitTest_5_1.vcxproj|D:\\Project\\DD\\lab_5\\UnitTest_5_1\\UnitTest_5_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D760E39-B133-FD8A-7F19-4D6A822F6EBF}|UnitTest_5_1\\UnitTest_5_1.vcxproj|solutionrelative:UnitTest_5_1\\UnitTest_5_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4F24B1B-A12B-4A98-B7FC-30440DFEAD28}|lab_5_1\\lab_5_1.vcxproj|D:\\Project\\DD\\lab_5\\lab_5_1\\lab_5_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E4F24B1B-A12B-4A98-B7FC-30440DFEAD28}|lab_5_1\\lab_5_1.vcxproj|solutionrelative:lab_5_1\\lab_5_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest_5_1.cpp",
+              "DocumentMoniker": "D:\\Project\\DD\\lab_5\\UnitTest_5_1\\UnitTest_5_1.cpp",
+              "RelativeDocumentMoniker": "UnitTest_5_1\\UnitTest_5_1.cpp",
+              "ToolTip": "D:\\Project\\DD\\lab_5\\UnitTest_5_1\\UnitTest_5_1.cpp",
+              "RelativeToolTip": "UnitTest_5_1\\UnitTest_5_1.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T14:03:56.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "lab_5_1.cpp",
               "DocumentMoniker": "D:\\Project\\DD\\lab_5\\lab_5_1\\lab_5_1.cpp",
               "RelativeDocumentMoniker": "lab_5_1\\lab_5_1.cpp",
